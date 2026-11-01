@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-be-by",
+    "full_code": "crm.language-pack-be-by",
+    "vendor": "crm",
+    "code": "be-by",
+    "title": "Belarusian Language Pack (Беларуская)",
+    "native_name": "Беларуская",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.0",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "Belarusian Language Pack (Беларуская)",
+    "signature": "3e1b8ecb057529cbc635bbd4698e23afc2c0724817e4ec5fe3a54f30c4676d0f"
+}

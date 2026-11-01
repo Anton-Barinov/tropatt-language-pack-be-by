@@ -1,0 +1,31 @@
+<?php
+declare(strict_types=1);
+
+return array (
+  'dashboard' => 'Панэль кіравання',
+  'ideas' => 'Lokal: Ideas',
+  'tasks' => 'Задачы',
+  'day' => 'Lokal: My day',
+  'week' => 'Lokal: My week',
+  'kanban' => 'Lokal: Kanban',
+  'gantt' => 'Lokal: Gantt',
+  'projects' => 'Праекты',
+  'calendar' => 'Каляндар',
+  'counterparties' => 'Lokal: Counterparties',
+  'teams' => 'Каманды',
+  'knowledge' => 'База ведаў',
+  'analytics' => 'Lokal: Analytics',
+  'notifications' => 'Апавяшчэнні',
+  'admin' => 'Lokal: Administration',
+  'intake' => 'Lokal: Intake',
+  'cycles' => 'Lokal: Cycles (Sprints)',
+  'project_modules' => 'proyek Modules',
+  'admin_estimates' => 'tugas Estimates',
+  'admin_modules' => 'Lokal: Modules',
+  'chat' => 'Lokal: Chats',
+  'docs' => 'Lokal: Documentation',
+  'api' => 'Lokal: Documentation',
+  'my_earnings' => 'Lokal: My earnings',
+  'rate_cards' => 'Lokal: Rate cards',
+  'menu_loaded' => 'Lokal: Menu loaded',
+);
